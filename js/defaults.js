@@ -13,7 +13,7 @@ var defaults = {
 	language: "en",
 	timeFormat: 24,
 	units: "metric",
-	
+
 	modules: [
 		{
 			module: "helloworld",
@@ -51,7 +51,7 @@ var defaults = {
 			position: "bottom_bar",
 			classes: "xsmall dimmed",
 			config: {
-				text: "www.michaelteeuw.nl"
+				text: "www.selfdrvn.com"
 			}
 		},
 	],
